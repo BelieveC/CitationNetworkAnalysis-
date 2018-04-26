@@ -1,0 +1,644 @@
+331d22a0  On  the  Possibility  of  Path  Expressions  Containing  Backward  Navigations  in  Object-Oriented  Databases. 
+2b7e3883  HyperView:  Generating  Virtual  Hypermedia  in  Decentralized  Environments. 
+88aace5e  A  Batch  Manufacturing  Information  Management  System  Based  on  Multidimensional  View  Generation  and  Active  Mechanism. 
+349d7ed6  Flexible  Workflow  Framework  for  Supporting  Collaborative  Works. 
+a51c60cf  Time  Management  in  Dynamic  Workflows. 
+e85ff5c7  Towards  Integrated  Management  of  Heterogeneous  Documents. 
+269edab5  Meme  Media  and  Databases. 
+09f2553c  Incremental  Maintenance  of  Materialized  Path  Query  OODB  Views. 
+2f3d33fd  Aggregation  in  Federated  Databases:  The  DOK  Approach. 
+9399cf01  Indexing   Query  Interface  and  Query  Processing  for  Venus:  A  Video  Database  System. 
+13bd1b8e  Knowledge  Representation   Concept  Acquisition  and  Retrieval  of  Video  Data. 
+0e1817e3  Optimal  Bit  Lengths  of  Direction  Signatures  for  Spatial  Match  Accessing  Using  Basic  Linear  Hashing  Scheme. 
+354b1a97  A  Cooperative  Real-Time  GIS  for  Traffic  Management. 
+e1e1f10a  Effective  and  Efficient  Boundary-based  Clustering  for  Three-Dimensional  Geoinformation  Studies. 
+a12782d2  Document  Retrieval  Based  on  Subtopic  Combination. 
+5ff402a8  Supporting  Voluntary  Disconnection  in  WFMSs. 
+f4d038d0  Applying  Event-Condition-Action  Mechanism  in  Healthcare;  A  Computerized  Clinical  Test-Ordering  protocol  System  (TOPS). 
+55446d68  Set-Based  Access  Conflicts  Analysis  of  Concurrent  Workflow  Definition. 
+d5f44f00  Concurrency  Control  Based  on  Order  Constraints  in  Advanced  Database  Systems. 
+1d4b62ce  Caching  and  Concurrency  Control  in  Mobile  Client/Server  Database  Systems. 
+aa03b1bf  Constraints  for  Information  Cooperation  in  Virtual  Enterprise  Systems. 
+fccae709  The  Semi  Transaction  Model  for  Cooperative  Database  Management. 
+7bc5581f  Evaluation  of  Dynamic  Representation  of  Roles  by  Environment  Model. 
+a28bb176  FAIRY:  Personalized  Information  Dissemination  System  Based  on  How-Net. 
+d78245e9  Parallel  Join  Algorithms  based  on  Parallel  B+-trees. 
+8419158c  Inter-agent  Communication  in  Dynamic  Distributed  Information  Systems. 
+a147c71b  Export  Database  Derivation  and  Query  Processing  for  Object-Oriented  Wrappers. 
+49c28fb4  Enriched  Relationship  Processing  in  Object-Relational  Database  Management  Systems. 
+806808ff  An  Automated  Integration  Approach  for  Semi-Structured  and  Structured  Data. 
+cc144978  Cooperative  Content  Analysis  Agents  for  Online  Multimedia  Indexing  and  Filtering. 
+fca59363  Interaction  Adaptivity  in  Cooperative  Agent  for  Emergent  Process  Management. 
+099ead22  On  the  Optimization  of  Complex  Spatial  Queries. 
+73af0c79  Issues  in  an  Entity-Relationship  Based  Federated  Database  System. 
+25b0d34d  An  Ontology  of  Metadata  for  a  Data  Warehouse  Represented  in  Description  Logics. 
+7909b446  Distributed  Indexing  and  Querying  of  Unstructured  Workgroup  Data  Using  Cooperative  Information  Agents. 
+f49b611e  An  Overview  of  the  ROL  Language. 
+9b7670ee  Issues  on  Query  Processing  in  Distributed  and  Interoperable  Information  Systems. 
+a9c53cfe  Incremental  Evaluation  of  Nest  and  Unnest  Operators  in  Nested  Relations. 
+aa6a3ca7  On  Translation  of  Complex  Value  Calculus  Queries  with  Arithmatic  Operators. 
+d177580d  New  Technologies  (Multimedia  -  Hypertext  -  Hypermedia)  Potential  Use  in  Developing  Countries. 
+83e47a5f  Issues  in  the  Transborder  Flow  of  Scientific  Data. 
+5dccfe00  MmtDB:  The  Metazoa  Mitochonrial  DNA  Variants  Specialized  Database. 
+ccd10764  UNESCO  Policy  on  Data  Exchange:  Grave  Disparities  in  Scientific  Data  Access. 
+457ca34b  Bioinformatics  in  the  United  States:  Recent  Trends  from  a  Microbiological  Perspective. 
+2f621b6f  ICSU  Policy  on  Access  to  Data  and  Information. 
+056c450b  Internet-Web  and  ST  Data  Management:  Harmonization  and  New  Horizons. 
+026ed1fc  A  Workbench  for  Bibliographic  or  Factual  Data  Handling. 
+51b264bf  Numerical  Databases  -  Can  We  Afford  Them? 
+ef8e428a  Barriers  to  International  Technology  Transfer. 
+8c679ed7  Information  Highways:  Internet  and  Web  Services. 
+212a7f17  A  Few  Facets  of  the  Kaleidoscope  of  Scientific  Information. 
+65f96d09  Integrated  Information  Management  for  Physics. 
+bcd103bb  Protein  Superfamily  Database  (Prosup). 
+2638ee4f  Critical  Factors  for  the  Use  of  Public  Databases. 
+869c1162  Structuring  and  Visualizing  Hyperspace  with  Hyper-G. 
+9ba57ed2  Onnline  Electronic  Publishing:  Developing  Infrastructure  for  the  Electronic  Reader. 
+c6df3082  Concerted  Use  of  Multiple  Databases  for  Taxonomic  Insights. 
+72ec338b  The  NASA  Astrophysics  Data  System:  A  Heterogeneous  Distributed  Data  Environment. 
+302c9516  Bioinformatics  -  Pulling  the  European  Strings  Together. 
+6e3e67d0  Epitope  Data  Bank. 
+8526d678  Teaching  Biology  by  Video  Images  Assisted  by  Computer:  Embryological  Labroratories. 
+21bf0632  Integrated  Ground-Based  and  Remotely  Sensed  Data  to  Support  Global  Studies  of  Environmental  Change. 
+70efb3f4  Guidelines  of  a  European  Meteorological  Services  Policy  on  Data  Exchange. 
+f1913e83  Legal  and  Economic  Aspects  of  Data  Production  and  Transfer. 
+33c31fdc  Computer  Networks  with  Episodic  Links  and  the  Use  of  Portable  Computers. 
+acdc4d58  Dynamic  Management  of  Cooperative  Applications  for  Mobile  Systems. 
+a9af09d5  Networking  Africa's  Scientific  and  Technical  Information  Resources. 
+dd9a4ba9  Bioinformatics  in  East  Asia. 
+36777c05  The  World-Wide  Web:  A  Global  Source  of  Data  and  Information. 
+d0aa6832  The  Development  of  a  Scientific  Research  data  Network  System  in  China. 
+c1ce5d06  The  State  of  Chinese  Materials  Databases. 
+d0707a2f  Content-Based  Information  Retrival:  New  Tools  for  Textual  Data   New  Problems  for  Image  Data. 
+d1e88a5c  Communication  synthesis  and  HW/SW  integration  for  embedded  system  design. 
+df91fa46  Codesign-extended  applications. 
+1b60c5e1  An  example  of  applying  the  codesign  method  MOOSE. 
+e9ed50ab  Extending  the  SystemC  synthesis  subset  by  object-oriented  features. 
+64f6f159  Memory  size  estimation  for  multimedia  applications. 
+e612de61  Instruction  set  selection  for  ASIP  design. 
+68021616  A  framework  for  interactive  analysis  of  timing  constraints  in  embedded  systems. 
+2d76f0aa  Compiler-directed  customization  of  ASIP  cores. 
+a2b49036  Constrained  software  generation  for  hardware-software  systems. 
+ac557074  The  analysis  and  design  of  architecture  systems  for  speech  recognition  on  modern  handheld-computing  devices. 
+b3a89fdc  Rappit:  framework  for  synthesis  of  host-assisted  scripting  engines  for  adaptive  embedded  systems. 
+dbf3b31e  Memory  accesses  management  during  high  level  synthesis. 
+9968c6f2  Processor  frequency  setting  for  energy  minimization  of  streaming  multimedia  application. 
+499bde0f  Comparing  the  size  of  .NET  applications  with  native  code. 
+9db82f47  RS-FDRA:  a  register  sensitive  software  pipelining  algorithm  for  embedded  VLIW  processors. 
+06cb11cf  Approach  to  the  Synthesis  of  HW  and  SW  in  Codesign. 
+c9ad6b81  Fast  performance  prediction  for  periodic  task  systems. 
+9dafcd0e  System-level  partitioning  with  uncertainty. 
+e39bcabb  Multilanguage  design  of  heterogeneous  systems. 
+674809e0  A  Flexible  Model  for  Evaluating  the  Behavior  of  Hardware/Software  Systems. 
+0e64069c  First  results  with  eBlocks:  embedded  systems  building  blocks. 
+b9f8d577  Deriving  hard  real-time  embedded  systems  implementations  directly  from  SDL  specifications. 
+8729c74a  Future  challenges  in  embedded  systems. 
+844c8cfb  Heuristic  tradeoffs  between  latency  and  energy  consumption  in  register  assignment. 
+468f2efd  Industry  best  practices  in  embedded  software. 
+29b9d6be  HDL  code  restructuring  using  timed  decision  tables. 
+e51a83c0  A  methodology  for  control-dominated  systems  codesign. 
+37e619dd  Configuration-level  hardware/software  partitioning  for  real-time  embedded  systems. 
+e73e2045  Designing  domain-specific  processors. 
+edfd9120  System  level  memory  optimization  for  hardware-software  co-design. 
+cd648a6f  Automatic  detection  of  recurring  operation  patterns. 
+365ff264  A  strongly  polynomial-time  algorithm  for  over-constraint  resolution:  efficient  debugging  of  timing  constraint  violations. 
+f329f0a9  Enhancing  security  through  hardware-assisted  run-time  validation  of  program  data  properties. 
+46f3435a  Hardware/software  co-design  of  an  ATM  network  interface  card:  a  case  study. 
+a21620f2  Parameterised  system  design  based  on  genetic  algorithms. 
+5f18f625  Software/hardware  Co-Design  in  the  MuSE  environment. 
+146bf962  Multi-objective  mapping  for  mesh-based  NoC  architectures. 
+9e85dd4a  Timed  executable  system  specification  of  an  ADSL  modem  using  a  C++  based  design  environment:  a  case  study. 
+34b35aca  An  integer  linear  programming  approach  for  identifying  instruction-set  extensions. 
+9ca37163  On-chip  communication  design:  roadblocks  and  avenues. 
+379e61df  Design  technology  challenges  for  system  and  chip  level  designs  in  very  deep  submicron  technologies. 
+f1c5329f  Towards  a  multi-formalism  framework  for  architectural  synthesis:  the  ASAR  project. 
+d4023db8  A  power  estimation  methodology  for  systemC  transaction  level  models. 
+293cc6f3  Automatic  exploration  of  VLIW  processor  architectures  from  a  designer's  experience  based  specification. 
+9fd40d3d  TGFF:  task  graphs  for  free. 
+e62f5175  Architecture  Synthesis  and  Partitioning  of  Real-Time  Systems:  A  Comparison  of  Three  Heuristic  Search  Strategies. 
+1f49fd62  Transaction  level  modeling:  flows  and  use  models. 
+0c10a910  Large  exploration  for  HW/SW  partitioning  of  multirate  and  aperiodic  real-time  systems. 
+23683638  Driving  agenda  for  systems  research. 
+d4e86653  STARS  of  MPEG  decoder:  a  case  study  in  worst-case  analysis  of  discrete-event  systems. 
+7ff04132  Exploring  design  space  of  parallel  realizations:  MPEG-2  decoder  case  study. 
+bef3f187  Worst-case  analysis  of  discrete  systems  based  on  conditional  abstractions. 
+47b476ec  New  architectures  for  smart  cards:  the  OCEAN  approach. 
+31db41a5  Hardware-software  cosynthesis  of  multi-mode  multi-task  embedded  systems  with  real-time  constraints. 
+5e5b8763  Automatic  Generation  of  a  Real-Time  Operating  System  for  Embedded  Systems. 
+a60f8981  Tracking  object  life  cycle  for  leakage  energy  optimization. 
+e3412fc8  A  hardware-software  cosynthesis  technique  based  on  heterogeneous  multiprocessor  scheduling. 
+233eae0a  Concurrent  execution  semantics  and  sequential  simulation  algorithms  for  the  metropolis  meta-model. 
+59aeb83a  Automatic  synthesis  of  system  on  chip  multiprocessor  architectures  for  process  networks. 
+62debe92  Partitioning  and  Exploration  Strategies  in  the  TOSCA  Co-Design  Flow. 
+ad71c79a  A  Multi-Level  Transformation  Approach  to  HW/SW  Codesign:  A  Case  Study. 
+e11bcd42  Extended  quasi-static  scheduling  for  formal  synthesis  and  code  generation  of  embedded  software. 
+e574333b  HW/SW  partitioning  and  code  generation  of  embedded  control  applications  on  a  reconfigurable  architecture  platform. 
+6cb458e7  Software  acceleration  using  programmable  logic:  is  it  worth  the  effort? 
+6f1243d2  Hybrid  global/local  search  strategies  for  dynamic  voltage  scaling  in  embedded  multiprocessors. 
+9336e23c  Compiling  Esterel  into  sequential  code. 
+21c26c31  Software  performance  estimation  strategies  in  a  system-level  design  tool. 
+56ff2a36  Domain-specific  interface  generation  from  dataflow  specifications. 
+3d0852de  Scratchpad  memory:  design  alternative  for  cache  on-chip  memory  in  embedded  systems. 
+9a01258c  VHDL  system-level  specification  and  partitioning  in  a  hardware/software  co-synthesis  environment. 
+0dcae3f2  Efficient  search  space  exploration  for  HW-SW  partitioning. 
+8600c199  A  generic  tool  set  for  application  specific  processor  architectures. 
+514815e4  Towards  provably  correct  hardware/software  partitioning  using  occam. 
+79aaf075  A  multiobjective  optimization  model  for  exploring  multiprocessor  mappings  of  process  networks. 
+35032556  A  statechart  based  HW/SW  codesign  system. 
+933bea3e  Modeling  industrial  embedded  systems  with  UML. 
+18a6b7e0  Flexible  design  of  SPARC  cores:  a  quantitative  study. 
+5fd1b358  SystemC:  a  homogenous  environment  to  test  embedded  systems. 
+953800b8  An  Approach  to  Mixed  Systems  Co-Synthesis. 
+7e681a96  Driving  forces  behind  SOC  development. 
+36c97d45  Iterative  cache  simulation  of  embedded  CPUs  with  trace  stripping. 
+47641e33  System-level  design  tools:  who  needs  them   who  has  them   and  how  much  should  they  cost? 
+0a8dbca7  Optimization  and  synthesis  for  complex  reactive  embedded  systems  by  incremental  collapsing. 
+5820edc0  Satisfying  real-time  constraints  with  custom  instructions. 
+9d725b30  The  future  of  system-level  design:  can  we  find  the  right  solutions  to  the  right  problems  at  the  right  time? 
+0b74ae5f  Software  Architecture  Synthesis  for  Retargetable  Real-time  Embedded  Systems. 
+b95fc253  Promises  and  challenges  of  mobile  embedded  system:  :  an  industry  perspective. 
+ecf1d037  SEAS:  a  system  for  early  analysis  of  SoCs. 
+5fe1ddb9  Towards  interprocess  communication  and  interface  synthesis  for  a  heterogeneous  real-time  rapid  prototyping  environment. 
+381973cb  A  path  analysis  based  partitioning  for  time  constrained  embedded  systems. 
+7c730e07  A  hardware/software  prototyping  environment  for  dynamically  reconfigurable  embedded  systems. 
+b7f7f821  A  language  for  multiple  models  of  computation. 
+b5d7a77a  An  analysis-based  approach  to  composition  of  distributed  embedded  systems. 
+f06ab89f  Key  technologies  for  the  next  generation  wireless  communications. 
+3d3a1fc7  Critical  path  driven  cosynthesis  for  heterogeneous  target  architectures. 
+2f6e7f14  A  timing-accurate  HW/SW  co-simulation  of  an  ISS  with  SystemC. 
+e0b760c2  FPGA  resource  and  timing  estimation  from  Matlab  execution  traces. 
+6bf31d35  Power  optimization  of  system-level  address  buses  based  on  software  profiling. 
+4114cac1  A  codesign  case  study  in  computer  graphics. 
+9c4bf6e7  Hardware/software  co-design  of  an  avionics  communication  protocol  interface  system:  an  industrial  case  study. 
+7323a11f  Droplet-trace-based  array  partitioning  and  a  pin  assignment  algorithm  for  the  automated  design  of  digital  microfluidic  biochips. 
+30f0a861  Energy  estimation  for  32-bit  microprocessors. 
+6b5ecd93  Whole  program  compilation  for  embedded  software:  the  ADSL  experiment. 
+e0a28d63  The  pipeline  decomposition  tree:  :  an  analysis  tool  for  multiprocessor  implementation  of  image  processing  applications. 
+1e3076a2  Source-level  execution  time  estimation  of  C  programs. 
+161ab3a8  Development  cost  and  size  estimation  starting  from  high-level  specifications. 
+fa4516e7  Co-design  tool  construction  using  APICES. 
+fa559fed  Early  estimation  of  the  size  of  VHDL  projects. 
+80bb7225  Conflict  analysis  in  multiprocess  synthesis  for  optimized  system  integration. 
+488fa323  Power  estimation  for  architectural  exploration  of  HW/SW  communication  on  system-level  buses. 
+2d24ffe6  Communication  refinement  in  video  systems  on  chip. 
+29ca8ded  A  design  framework  to  efficiently  explore  energy-delay  tradeoffs. 
+bc3cd17d  A  dynamic  dataflow  model  suitable  for  efficient  mixed  hardware  and  software  implementations  of  DSP  applications. 
+9a49ec04  Compiler  parallelization  of  C  programs  for  multi-core  DSPs  with  multiple  address  spaces. 
+fbd87ef2  Heterogeneous  modeling  and  simulation  of  embedded  systems  in  El  Greco. 
+5591f5df  Interface  Optimization  During  Hardware-Software  Partitioning. 
+e2e7f4d4  Architectural  versus  physical  solutions  for  on-chip  communication  challenges. 
+1219a65a  Low  energy  security  optimization  in  embedded  cryptographic  systems. 
+f302c24e  Transaction  level  modeling:  an  overview. 
+dffa818a  Security  wrappers  and  power  analysis  for  SoC  technologies. 
+26640706  Uninterpreted  Co-Simulation  for  Performance  Evaluation  of  Hw/Sw  Systems. 
+cc11fc85  How  standards  will  enable  hardware/software  co-design. 
+5016f1ee  A  CoDesign  experience  with  the  MCSE  methodology. 
+bf7acd41  Blue  matter  on  blue  gene/L:  massively  parallel  computation  for  biomolecular  simulation. 
+28233fc9  Software  Implementation  Techniques  for  Hw/Sw  Embedded  Systems. 
+199f083a  A  Co-Design  Methodology  Based  on  Formal  Specification  and  High-level  Estimation. 
+5e3b8556  A  Case  Study  in  Co-Design  of  Communication  Controllers. 
+92a1ba8e  Fast  dynamic  analysis  of  complex  HW/SW-systems  based  on  abstract  state  machine  models. 
+a7000af8  Redesigning  hardware-software  systems. 
+a9d4066c  System-level  design  automation  tools  for  digital  microfluidic  biochips. 
+a6954051  An  Event-Driven  Multi-Threading  Architecture  for  Embedded  Systems. 
+27f68136  A  flexible  code  generation  framework  for  the  design  of  application  specific  programmable  processors. 
+98f92332  Architecture  and  synthesis  for  multi-cycle  on-chip  communication. 
+2004b19c  High-level  architectural  co-simulation  using  Esterel  and  C. 
+79eb5936  Parameterized  system  design. 
+162d818a  MAGELLAN:  multiway  hardware-software  partitioning  and  scheduling  for  latency  minimization  of  hierarchical  control-dataflow  task  graphs. 
+3207ae27  Memory  architecture  for  efficient  utilization  of  SDRAM:  a  case  study  of  the  computation/memory  access  trade-off. 
+3de243c4  RECOD:  a  retiming  heuristic  to  optimize  resource  and  memory  utilization  in  HW/SW  codesigns. 
+3e6eb548  Future  wireless  convergence  platforms. 
+502b171e  Energy  savings  through  compression  in  embedded  Java  environments. 
+c2629d2c  A  generic  multi-unit  architecture  for  codesign  methodologies. 
+856e65e8  Analyzing  heap  error  behavior  in  embedded  JVM  environments. 
+4fbbd11e  A  method  to  derive  application-specific  embedded  processing  cores. 
+1522ba60  Fast  co-simulation  of  transformative  systems  with  OS  support  on  SMP  computer. 
+aee113e4  Optimized  rapid  prototyping  for  real-time  embedded  heterogeneous  multiprocessors. 
+1fe791bf  A  unified  approach  to  constrained  mapping  and  routing  on  network-on-chip  architectures. 
+3cf53358  Speed-up  estimation  for  HW/SW-systems. 
+e2f51d52  Performance  Analysis  in  CoDe-X  Partitioning  for  Structural  Programmable  Accelerators. 
+2f64958e  Two-level  Partitioning  of  Image  Processing  Algorithms  for  the  Parallel  Map-oriented  Machine. 
+332fafbd  A  systematic  approach  to  software  peripherals  for  embedded  systems. 
+276ac0ee  VL-CDRAM:  variable  line  sized  cached  DRAMs. 
+1fd4f122  Communication  speed  selection  for  embedded  systems  with  networked  voltage-scalable  processors. 
+1579420f  The  Interplay  of  Run-Time  Estimation  and  Granularity  in  HW/SW  Partitioning. 
+467bb923  A  constraint-based  application  model  and  scheduling  techniques  for  power-aware  systems. 
+b721e2e9  Energy-conscious  HW/SW-partitioning  of  embedded  systems:  a  case  study  on  an  MPEG-2  encoder. 
+faca928c  Design  space  exploration  of  a  hardware-software  co-designed  GF(2)  galois  field  processor  for  forward  error  correction  and  cryptography. 
+abe3bc51  Aggressive  snoop  reduction  for  synchronized  producer-consumer  communication  in  energy-efficient  embedded  multi-processors. 
+9acd6264  Implementation  of  dynamic  streaming  Applications  on  heterogeneous  multi-Processor  architectures. 
+7d05aed7  Software  timing  analysis  using  HW/SW  cosimulation  and  instruction  set  simulator. 
+aea889ae  An  approach  to  the  adaptation  of  estimated  cost  parameters  in  the  COSYMA  system. 
+bb70b26c  A  low-cost  and  low-power  multi-standard  video  encoder. 
+dcde435b  Optimizing  communication  in  embedded  system  co-simulation. 
+c6f52dde  Low-power  task  scheduling  for  multiple  devices. 
+a5384223  The  priority  queue  as  an  example  of  hardware/software  codesign. 
+783786ac  Software  controlled  power  management. 
+35aef273  Hardware  and  software  architectures  for  the  CELL  processor. 
+21d84307  A  trace  transformation  technique  for  communication  refinement. 
+ed2a1e2b  Secure  FPGA  circuits  using  controlled  placement  and  routing. 
+e725cda2  HiPART:  a  new  hierarchical  semi-interactive  HW-/SW  partitioning  approach  with  fast  debugging  for  real-time  embedded  systems. 
+21abd586  Towards  a  declarative  framework  for  hardware-software  codesign. 
+b088c2d6  A  practical  tool  box  for  system  level  communication  synthesis. 
+582b5804  A  codesigned  on-chip  logic  minimizer. 
+4130a8ab  RTOS-centric  hardware/software  cosimulator  for  embedded  system  design. 
+996bb638  Embedded  system  synthesis  under  memory  constraints. 
+d3323c39  Process  Partitioning  for  Distributed  Embedded  Systems. 
+0215e802  Analytical  models  for  leakage  power  estimation  of  memory  array  structures. 
+d83a24b6  Modeling  micro-controller  peripherals  for  high-level  co-simulation  and  synthesis. 
+886be8a8  Optimizing  the  memory  bandwidth  with  loop  fusion. 
+29934e1f  Formal  synthesis  and  code  generation  of  embedded  real-time  software. 
+de9a37be  What  will  system  level  design  be  when  it  grows  up? 
+f58ea3a6  Timing  coverification  of  concurrent  embedded  real-time  systems. 
+60d4208b  Embedded  UML:  a  merger  of  real-time  UML  and  co-design. 
+5dfe17bc  Synthesis  of  real-time  embedded  software  with  local  and  global  deadlines. 
+311aeea6  Secure  and  safety-critical  vs.  insecure   non  safety-critical  embedded  systems:  do  they  require  completely  different  design  approaches? 
+802bc916  FIDES:  an  advanced  chip  multiprocessor  platform  for  secure  next  generation  mobile  terminals. 
+4d00e142  Embedded  systems  education:  how  to  teach  the  required  skills? 
+f5bd61c5  COSMOS:  a  codesign  approach  for  communicating  systems. 
+91033726  A  loop  accelerator  for  low  power  embedded  VLIW  processors. 
+eb539a72  Resource  constrained  dataflow  retiming  heuristics  for  VLIW  ASIPs. 
+8f2d2231  Keynote:  cellular  handset  technology  system  requirements  and  integration  trends. 
+06adf781  Evaluating  register  file  size  in  ASIP  design. 
+2c39aead  DVS  for  buffer-constrained  architectures  with  predictable  QoS-energy  tradeoffs. 
+708462a9  A  novel  codesign  methodology  for  real-time  embedded  COTS  multiprocessor-based  signal  processing  systems. 
+8ec153c0  Tuning  SoC  platforms  for  multimedia  processing:  identifying  limits  and  tradeoffs. 
+e79aaa4b  On  the  roles  of  functions  and  objects  in  system  specification. 
+c30be028  Efficient  performance  analysis  of  asynchronous  systems  based  on  periodicity. 
+7973428c  The  usage  of  stochastic  processes  in  embedded  system  specifications. 
+9e275625  Linking  codesign  and  reuse  in  embedded  systems  design. 
+dc523771  The  importance  of  interfaces:  a  HW/SW  codesign  case  study. 
+ff6878ea  A  case  study  of  mapping  a  software-defined  radio  (SDR)  application  on  a  reconfigurable  DSP  core. 
+2299697b  Transformation  of  SDL  specifications  for  system-level  timing  analysis. 
+53ce3662  Automated  data  cache  placement  for  embedded  VLIW  ASIPs. 
+91d81682  Logic  optimization  and  code  generation  for  embedded  control  applications. 
+75a7c9c2  Performance  and  power  analysis  of  computer  systems. 
+67a5f482  An  automated  exploration  framework  for  FPGA-based  soft  multiprocessor  systems. 
+15861375  Organic  computing:  on  the  feasibility  of  controlled  emergence. 
+fb89f8a6  Future  processors:  flexible  and  modular. 
+ced84aa4  The  challenges  of  embedded  system  design. 
+be0b94d3  Hardware  synthesis  from  coarse-grained  dataflow  specification  for  fast  HW/SW  cosynthesis. 
+8f69e623  Current  flattening  in  software  and  hardware  for  security  applications. 
+a1362873  Locality-conscious  process  scheduling  in  embedded  systems. 
+55bd426b  Power-smart  system-on-chip  architecture  for  embedded  cryptosystems. 
+c613e7f9  A  global  criticality/local  phase  driven  algorithm  for  the  constrained  hardware/software  partitioning  problem. 
+43c85b78  System  canvas:  a  new  design  environment  for  embedded  DSP  and  telecommunication  systems. 
+790a227c  Energy  conscious  online  architecture  adaptation  for  varying  latency  constraints  in  sensor  network  applications. 
+db49bd1b  Simulation  bridge:  a  framework  for  multi-processor  simulation. 
+530738e0  Compiler-directed  selection  of  dynamic  memory  layouts. 
+54a2a7b8  Accurate  estimation  of  cache-related  preemption  delay. 
+6b8646f8  Compiler-directed  code  restructuring  for  reducing  data  TLB  energy. 
+c314c4c1  Reducing  power  and  latency  in  2-D  mesh  NoCs  using  globally  pseudochronous  locally  synchronous  clocking. 
+d3aaf5a2  Designing  digital  video  systems:  modeling  and  scheduling. 
+4646f8d7  Scheduling-based  code  size  reduction  in  processors  with  indirect  addressing  mode. 
+72006ca6  An  architectural  level  design  methodology  for  embedded  face  detection. 
+8581e7f2  Complexity  challenges  towards  4th  generation  communication  solutions. 
+89067cca  Dynamic  run-time  HW/SW  scheduling  techniques  for  reconfigurable  architectures. 
+c9ebff10  The  construction  of  a  retargetable  simulator  for  an  architecture  template. 
+33b343e6  Power-performance  trade-offs  for  reconfigurable  computing. 
+27566e17  Compaan:  deriving  process  networks  from  Matlab  for  embedded  signal  processing  architectures. 
+51e61883  Key  research  problems  in  NoC  design:  a  holistic  perspective. 
+c895e2fe  Schedule-aware  performance  estimation  of  communication  architecture  for  efficient  design  space  exploration. 
+6d6a9a7c  Shift  buffering  technique  for  automatic  code  synthesis  from  synchronous  dataflow  graphs. 
+2ca5f72e  Efficient  exploration  of  on-chip  bus  architectures  and  memory  allocation. 
+21a74143  FlexPath  NP:  a  network  processor  concept  with  application-driven  flexible  processing  paths. 
+69a55efc  Designing  real-time  H.264  decoders  with  dataflow  architectures. 
+5b4798c6  Empirical  comparison  of  software-based  error  detection  and  correction  techniques  for  embedded  systems. 
+82e7c439  A  Hardware/Software  Codesign  Method  for  a  General  Purpose  Reconfigurable  Co-Processor. 
+188f9f59  Intra-  and  inter-processor  hybrid  performance  modeling  for  MPSoC  architectures. 
+65d5dd35  Distributed  and  low-power  synchronization  architecture  for  embedded  multiprocessors. 
+79d88370  Storage  requirement  estimation  for  data  intensive  applications  with  partially  fixed  execution  ordering. 
+18e9cc53  A  study  of  CodePack:  optimizing  embedded  code  space. 
+f9869b7d  PACE:  A  Dynamic  Programming  Algorithm  for  Hardware/Software  Partitioning. 
+3b98addd  Communication  Synthesis  for  Embedded  Systems  with  Global  Considerations. 
+17b04e39  Communication  estimation  for  hardware/software  codesign. 
+060114e4  Increasing  on-chip  memory  space  utilization  for  embedded  chip  multiprocessors  through  data  compression. 
+5d674fb2  Graph  based  communication  analysis  for  hardware/software  codesign. 
+e15840b6  Multi-objective  design  space  exploration  using  genetic  algorithms. 
+3f1e48f0  A  prototyping  environment  for  hardware/software  codesign  in  the  COBRA  project. 
+1d6bf086  A  system-level  methodology  for  fully  compensating  process  variability  impact  of  memory  organizations  in  periodic  applications. 
+221ea68c  A  modular  simulation  framework  for  architectural  exploration  of  on-chip  interconnection  networks. 
+0bd87ea8  A  low-cost  memory  architecture  with  NAND  XIP  for  mobile  embedded  systems. 
+f705ebac  Hardware  support  for  real-time  operating  systems. 
+7474cfe0  Fast  exploration  of  bus-based  on-chip  communication  architectures. 
+b84dc113  A  fast  parallel  reed-solomon  decoder  on  a  reconfigurable  architecture. 
+f83c197f  Modeling  reactive  systems  in  Java. 
+8ffce5fb  Detecting  overflow  detection. 
+29215860  Programmers'  views  of  SoCs. 
+37e6d373  A  novel  codesign  approach  based  on  distributed  virtual  machines. 
+394e9c5f  The  design  context  of  concurrent  computation  systems. 
+653e932d  Memory  system  design  space  exploration  for  low-power   real-time  speech  recognition. 
+7f0925f7  Embedded  Architecture  Co-Synthesis  and  System  Integration. 
+540a11aa  The  design  of  a  smart  imaging  core  for  automotive  and  consumer  applications:  a  case  study. 
+6e82152f  Frequency  interleaving  as  a  codesign  scheduling  paradigm. 
+65ab88a5  An  ASIP  design  methodology  for  embedded  systems. 
+59ae1081  Benchmark-based  design  strategies  for  single  chip  heterogeneous  multiprocessors. 
+5a7b7866  Highly  flexible  multi-mode  system  synthesis. 
+dd18eb5a  Parallel  programming  models  for  a  multi-processor  SoC  platform  applied  to  high-speed  traffic  management. 
+015796af  A  Codesign  Environment  Supporting  Hardware/Software  Modeling  at  Different  Levels  of  Detail. 
+7bec51ef  Dynamic  phase  analysis  for  cycle-close  trace  generation. 
+dda6e258  Power  analysis  of  system-level  on-chip  communication  architectures. 
+4be95f13  Towards  effective  embedded  processors  in  codesigns:  customizable  partitioned  caches. 
+f7e14795  Fast  system-level  power  profiling  for  battery-efficient  system  design. 
+d846f011  Energy  frugal  tags  in  reprogrammable  I-caches  for  application-specific  embedded  processors. 
+769203e3  Automatic  test  bench  generation  for  simulation-based  validation. 
+71e9f816  Aspects  of  system-level  design. 
+235cae04  A  compilation-based  software  estimation  scheme  for  hardware/software  co-simulation. 
+31057852  Fast  prototyping:  a  system  design  flow  for  fast  design   prototyping  and  efficient  IP  reuse. 
+7581a7c4  A  case  study  on  modeling  shared  memory  access  effects  during  performance  analysis  of  HW/SW  systems. 
+ad7b1125  Co-design  of  interleaved  memory  systems. 
+50855953  A  time-predictable  system  initialization  design  for  huge-capacity  flash-memory  storage  systems. 
+d50f88cd  A  case  study  in  computer-aided  codesign  of  embedded  controllers. 
+32b4b8a4  Exploiting  polymorphism  in  HW  design:  a  case  study  in  the  ATM  domain. 
+073cbdef  A  novel  deadlock  avoidance  algorithm  and  its  hardware  implementation. 
+7b99cca6  Performance  estimation  for  embedded  systems  with  data  and  control  dependencies. 
+f4ca405e  Reconfigurable  SoC  design  with  hierarchical  FSM  and  synchronous  dataflow  model. 
+4ac90bc0  Holistic  scheduling  and  analysis  of  mixed  time/event-triggered  distributed  embedded  systems. 
+de1d683d  Code  compression  as  a  variable  in  hardware/software  co-design. 
+daf04212  Design  optimization  of  mixed  time/event-triggered  distributed  embedded  systems. 
+005538ce  Spatial  division  multiplexing:  a  novel  approach  for  guaranteed  throughput  on  NoCs. 
+4f054b8d  Scheduling  with  optimized  communication  for  time-triggered  embedded  systems. 
+8dad8f8f  Towards  a  new  standard  for  system-level  design. 
+f40e2843  Minimizing  system  modification  in  an  incremental  design  approach. 
+d87ab111  High-level  synthesis  for  large  bit-width  multipliers  on  FPGAs:  a  case  study. 
+973ac51c  Dual-pipeline  heterogeneous  ASIP  design. 
+821a562c  Development  of  an  optimizing  compiler  for  a  Fujitsu  fixed-point  digital  signal  processor. 
+2a48c60e  Hardware-software  bipartitioning  for  dynamically  reconfigurable  systems. 
+1de23e91  Timing-driven  HW/SW  codesign  based  on  task  structuring  and  process  timing  simulation. 
+258ad0f5  A  low  power  scheduler  using  game  theory. 
+3acabeb3  Verification  of  design  decisions  in  ForSyDe. 
+c0156ae7  Interface  models. 
+1a2f7a43  An  efficient  retargetable  framework  for  instruction-set  simulation. 
+69b46494  A  cycle-accurate  compilation  algorithm  for  custom  pipelined  datapaths. 
+32c7f8f6  Memory  access  optimizations  in  instruction-set  simulators. 
+83fe7eb8  A  multicast  inter-task  communication  protocol  for  embedded  multiprocessor  systems. 
+fd13409f  Area-efficient  buffer  binding  based  on  a  novel  two-port  FIFO  structure. 
+4490e304  Overhead  effects  in  real-time  preemptive  schedules. 
+aac29aa2  Efficient  mapping  of  hierarchical  trees  on  coarse-grain  reconfigurable  architectures. 
+e482aadc  Comparing  two  testbench  methods  for  hierarchical  functional  verification  of  a  bluetooth  baseband  adaptor. 
+6aafa0bc  A  Model  for  the  Coanalysis  of  Hardware  and  Software  Architectures. 
+9460b7a1  Program  slicing  for  codesign. 
+148a9c3b  Design  of  multi-tasking  coprocessor  control  for  Eclipse. 
+81f49891  Instruction-level  power  estimation  for  embedded  VLIW  cores. 
+6ebcbf95  System  synthesis  utilizing  a  layered  functional  model. 
+1e99ac01  Service  dependency  graph:  an  efficient  model  for  hardware/software  interfaces  modeling  and  generation  for  SoC  design. 
+7e363477  Metrics  for  design  space  exploration  of  heterogeneous  multiprocessor  embedded  systems. 
+8f270879  Hardware  support  for  real-time  embedded  multiprocessor  system-on-a-chip  memory  management. 
+c6fd1f89  Novel  architecture  for  loop  acceleration:  a  case  study. 
+572ecaa2  Fully  Parallel  Hardware/Software  Codesign  for  Multi-Dimensional  DSP  Applications. 
+92ad28d2  Enforcing  Schedulability  of  Multi-Task  Systems  by  Hardware-Software  Codesign. 
+bae13939  Automatic  network  generation  for  system-on-chip  communication  design. 
+3e27a0dd  Power-aware  communication  optimization  for  networks-on-chips  with  voltage  scalable  links. 
+b2ac5f27  A  novel  parallel  deadlock  detection  algorithm  and  architecture. 
+f7e07ee1  Retargetable  compilation  for  low  power. 
+14819d7f  Operation  tables  for  scheduling  in  the  presence  of  incomplete  bypassing. 
+4a940cb9  Aggregating  processor  free  time  for  energy  reduction. 
+93ca72cf  Worst-case  performance  analysis  of  parallel   communicating  software  processes. 
+29426d0c  Wireless  protocols  design:  challenges  and  opportunities. 
+a1f3dd5b  Generating  mixing  hardware/software  systems  from  SDL  specifications. 
+f2f29f46  Schedulability  analysis  of  heterogeneous  systems  for  performance  message  sequence  chart. 
+df531801  Fast  processor  core  selection  for  WLAN  modem  using  mappability  estimation. 
+82b9bb1f  Deriving  process  networks  from  weakly  dynamic  applications  in  system-level  design. 
+2833cc0c  Algorithmic  transformation  techniques  for  efficient  exploration  of  alternative  application  instances. 
+fdd1e62e  Hardware/software  partitioning  of  software  binaries:  a  case  study  of  H.264  decode. 
+0865c80f  Scheduling  hardware/software  systems  using  symbolic  techniques. 
+37f57dfb  Flexible  modeling  environment  for  embedded  systems  design. 
+ba0e8a2f  A  HW/SW  co-design  environment  for  multi-media  equipments  development  using  inverse  problem. 
+520d32e7  Pruning-based  energy-optimal  device  scheduling  for  hard  real-time  systems. 
+8f93ed86  Dynamic  I/O  power  management  for  hard  real-time  systems. 
+81086ad9  Grand  challenges  in  embedded  systems. 
+920e9846  A  constructive  algorithm  for  memory-aware  task  assignment  and  scheduling. 
+217f7bad  Task  response  time  optimization  using  cost-based  operation  motion. 
+34d0855c  An  evolutionary  approach  to  system-level  synthesis. 
+eb10dc58  3D  exploration  of  software  schedules  for  DSP  algorithms. 
+bd4c204e  Improving  superword  level  parallelism  support  in  modern  compilers. 
+5de0fc16  CASTLE:  an  interactive  environment  for  HW-SW  Co-Design. 
+4e7d6a65  Peer-based  multithreaded  executable  co-specification. 
+fe4e95a7  Modeling  and  evaluation  of  hardware/software  designs. 
+552e46bb  Program  path  analysis  to  bound  cache-related  preemption  delay  in  preemptive  real-time  systems. 
+92a4acdc  Optimal  acyclic  fine-grain  scheduling  with  cache  effects  for  embedded  and  real  time  systems. 
+82fd62ce  Facilitating  reuse  in  hardware  models  with  enhanced  type  inference. 
+129503a1  Modifying  Min-Cut  for  Hardware  and  Software  Functional  Partitioning. 
+039e8a6b  The  case  for  a  configure-and-execute  paradigm. 
+fcf636d9  Towards  a  Model  for  Hardware  and  Software  Functional  Partitioning. 
+13f89989  An  Object-Oriented  Communication  Library  for  Hardware-Software  CoDesign. 
+ca2edb4a  Hardware/software  partitioning  of  embedded  system  in  OCAPI-xl. 
+5fcd4a00  Symbolic  model  checking  of  Dual  Transition  Petri  Nets. 
+6baf1026  SOMA:  a  tool  for  synthesizing  and  optimizing  memory  accesses  in  ASICs. 
+e030aa69  Dynamic  overlay  of  scratchpad  memory  for  energy  minimization. 
+c940fd19  Extended  design  reuse  trade-offs  in  hardware-software  architecture  mapping. 
+4538055a  The  TACO  protocol  processor  simulation  environment. 
+4db17ca9  Trade-offs  in  the  design  of  mixed  hardware-software  systems-a  perspective  from  industry. 
+53c02d6d  Implications  of  Codesign  as  a  Natural  Constituent  of  a  Systems  Engineering  Discipline  for  Computer  Based  Systems. 
+39057b09  Towards  a  theory  for  hardware/software  codesign. 
+de83b3e1  Design-For-Debug  in  Hardware/Software  Co-Design. 
+4487f8d8  Enabling  unrestricted  automated  synthesis  of  portable  hardware  accelerators  for  virtual  machines. 
+49c95062  Synthesizing  operating  system  based  device  drivers  in  embedded  systems. 
+8f1d2a87  Using  minimal  minterms  to  represent  programmability. 
+6c73b10b  Fast  cycle-accurate  simulation  and  instruction  set  generation  for  constraint-based  descriptions  of  programmable  architectures. 
+d9523300  HW/SW  partitioning  of  an  embedded  instruction  memory  decompressor. 
+85070d03  Developing  design  tools  for  biological  and  biomedical  applications  of  micro-  and  nano-technology. 
+623cce46  Retargetable  generation  of  TLM  bus  interfaces  for  MP-SoC  platforms. 
+d6f59bf6  Design  flow  for  hardware/software  cosynthesis  of  a  video  compression  system. 
+dd7d56af  A  core  flight  software  system. 
+9b275364  Hardware/software  selected  cycle  solution. 
+2a4299b1  ASDEN:  a  comprehensive  design  framework  vision  for  automotive  electronic  control  systems. 
+ca1a8ef1  CODES  and  co-design:  a  look  back  and  a  look  forward. 
+a763b649  Design  and  programming  of  embedded  multiprocessors:  an  interface-centric  approach. 
+6549d07e  An  MPEG-2  decoder  case  study  as  a  driver  for  a  system  level  design  methodology. 
+f92f450c  TigerSwitch:  a  case  study  in  embedded  computing  system  design. 
+ba03a369  Using  codesign  techniques  to  support  analog  functionality. 
+c91d5f66  Task  concurrency  management  methodology  to  schedule  the  MPEG4  IM1  player  on  a  highly  parallel  processor  platform. 
+b7b9702b  Enhanced  code  density  of  embedded  CISC  processors  with  echo  technology. 
+4c4afe29  Energy-efficient  flash-memory  storage  systems  with  an  interrupt-emulation  mechanism. 
+ea0c60c0  CPU  scheduling  for  statistically-assured  real-time  performance  and  improved  energy  efficiency. 
+ae229d51  Efficient  behavior-driven  runtime  dynamic  voltage  scaling  policies. 
+7182c752  Architectural  analysis  and  instruction-set  optimization  for  design  of  network  protocol  processors. 
+2e762c45  Iterational  retiming:  maximize  iteration-level  parallelism  for  nested  loops. 
+3368882c  Pareto-optimization-based  run-time  task  scheduling  for  embedded  systems. 
+3717807e  CRAMES:  compressed  RAM  for  embedded  systems. 
+8b3a9be8  Power  optimization  for  universal  hash  function  data  path  using  divide-and-concatenate  technique. 
+9da2b505  Microcoded  coprocessor  for  embedded  secure  biometric  authentication  systems. 
+934cfbe8  Virtual  synchronization  technique  with  OS  modeling  for  fast  and  time-accurate  cosimulation. 
+414964e6  Optimistic  distributed  timed  cosimulation  based  on  thread  simulation  model. 
+a5b40de3  Optimizing  geographically  distributed  timed  cosimulation  by  hierarchically  grouped  messages. 
+dc9ba1c9  A  generic  wrapper  architecture  for  multi-processor  SoC  cosimulation  and  design. 
+77f16d2a  Performance  estimation  of  multiple-cache  IP-based  systems:  case  study  of  an  interdependency  problem  and  application  of  an  extended  shared  memory  model. 
+160a312d  RTOS  scheduling  in  transaction  level  models. 
+265bc0c5  An  efficient  direct  mapped  instruction  cache  for  application-specific  embedded  systems. 
+ed3f675a  Programming  embedded  networked  sensor  systems. 
+e072875b  A  probabilistic  performance  metric  for  real-time  system  design. 
+7bc9bdfa  Energy-efficient  address  translation  for  virtual  memory  support  in  low-power  and  real-time  embedded  processors. 
+52096fa2  A  unified  formal  model  of  ISA  and  FSMD. 
+6093cafa  System-on-chip  validation  using  UML  and  CWL. 
+c640afea  Modeling  operation  and  microarchitecture  concurrency  for  communication  architectures  with  application  to  retargetable  simulation. 
+d9f5a3b3  Design  space  minimization  with  timing  and  code  size  optimization  for  embedded  DSP. 
+90734915  Combining  multiple  models  of  computation  for  scheduling  and  allocation. 
+223768d9  A  fault  model  notation  and  error-control  scheme  for  switch-to-switch  buses  in  a  network-on-chip. 
+f1eed1bd  Automatic  phase  detection  for  stochastic  on-chip  traffic  generation. 
+2425bb76  A  multiprocessing  approach  to  accelerate  retargetable  and  portable  dynamic-compiled  instruction-set  simulation. 
+a5cf3544  Design  space  exploration  of  real-time  multi-media  MPSoCs  with  heterogeneous  scheduling  policies. 
+e39ce7c5  Floorplan  driven  leakage  power  aware  IP-based  SoC  design  space  exploration. 
+db964b7d  A  unified  hardware/software  runtime  environment  for  FPGA-based  reconfigurable  computers  using  BORPH. 
+2f311914  TLM/network  design  space  exploration  for  networked  embedded  systems. 
+faac81fb  Hardware  assisted  pre-emptive  control  flow  checking  for  embedded  processors  to  improve  reliability. 
+9e68dce9  Automotive  electronics  system   software   and  local  area  network. 
+df3a650e  A  bus  architecture  for  crosstalk  elimination  in  high  performance  processor  design. 
+9cbd45f2  Bounded  arbitration  algorithm  for  QoS-supported  on-chip  communication. 
+96827434  Creation  and  utilization  of  a  virtual  platform  for  embedded  software  optimization:  :  an  industrial  case  study. 
+8a536101  Increasing  hardware  efficiency  with  multifunction  loop  accelerators. 
+ec297ccf  Multi-processor  system  design  with  ESPAM. 
+2fd2e958  Automatic  selection  of  application-specific  instruction-set  extensions. 
+b6b0055a  A  formal  approach  to  robustness  maximization  of  complex  heterogeneous  embedded  systems. 
+3e14235c  Automatic  generation  of  transaction  level  models  for  rapid  design  space  exploration. 
+5e617e55  Yield  prediction  for  architecture  exploration  in  nanometer  technology  nodes:  :  a  model  and  case  study  for  memory  organizations. 
+4eaac720  Application  specific  forwarding  network  and  instruction  encoding  for  multi-pipe  ASIPs. 
+5cae0761  Architectural  support  for  safe  software  execution  on  embedded  processors. 
+340c6cb9  Increasing  the  throughput  of  an  adaptive  router  in  network-on-chip  (NoC). 
+fb2ba441  UML  and  model-driven  development  for  SoC  design. 
+e0dac1e4  Generic  netlist  representation  for  system  and  PE  level  design  exploration. 
+9572d112  Pack  instruction  generation  for  media  pUsing  multi-valued  decision  diagram. 
+8415cafd  A  methodology  for  design  of  application  specific  deadlock-free  routing  algorithms  for  NoC  systems. 
+4879bc17  Accurate  yet  fast  modeling  of  real-time  communication. 
+5f564acd  Battery  discharge  aware  energy  feasibility  analysis. 
+e12c5799  Challenges  in  exploitation  of  loop  parallelism  in  embedded  applications. 
+70045999  Automatic  run-time  extraction  of  communication  graphs  from  multithreaded  applications. 
+5c08047c  Are  current  ESL  tools  meeting  the  requirements  of  advanced  embedded  systems? 
+ef10a8d6  Hardware  based  frequency/voltage  control  of  voltage  frequency  island  systems. 
+0d913b19  Retargetable  code  optimization  with  SIMD  instructions. 
+51c041ba  Integrated  analysis  of  communicating  tasks  in  MPSoCs. 
+48d1c67f  Fuzzy  decision  making  in  embedded  system  design. 
+3f03e63e  Methodology  for  attack  on  a  Java-based  PDA. 
+aff13b7d  Resource  virtualization  in  real-time  CORBA  middleware. 
+7298ef84  Streamroller:  :  automatic  synthesis  of  prescribed  throughput  accelerator  pipelines. 
+6009ebfc  A  buffer-sizing  algorithm  for  networks  on  chip  using  TDMA  and  credit-based  end-to-end  flow  control. 
+f5b5ad52  Cutting  across  layers  of  abstraction:  :  removing  obstacles  from  the  advancement  of  embedded  systems. 
+c00087ed  Decision-theoretic  exploration  of  multiProcessor  platforms. 
+2254e2be  Heterogeneous  multiprocessor  implementations  for  JPEG:  :  a  case  study. 
+3f178351  Phase  guided  sampling  for  efficient  parallel  application  simulation. 
+70108d44  Layout  aware  design  of  mesh  based  NoC  architectures. 
+c108cecc  Demand  paging  for  OneNAND  Flash  eXecute-in-place. 
+b49a7de4  Efficient  computation  of  buffer  capacities  for  multi-rate  real-time  systems  with  back-pressure. 
+d788d058  System-level  power-performance  trade-offs  in  bus  matrix  communication  architecture  synthesis. 
+4f5fe4e1  Data  reuse  driven  energy-aware  MPSoC  co-synthesis  of  memory  and  communication  architecture  for  streaming  applications. 
+7deb4336  A  run-time   feedback-based  energy  estimation  model  For  embedded  devices. 
+7f8bceb4  BSim:  :  a  fast  micro-architecture  simulator  based  on  basic  block  characterization. 
+1ee40702  Thermal-aware  high-level  synthesis  based  on  network  flow  method. 
+96452b3c  Application-specific  workload  shaping  in  multimedia-enabled  personal  mobile  devices. 
+4a492eec  SHAPES:  :  a  tiled  scalable  software  hardware  architecture  platform  for  embedded  systems. 
+e058f49e  A  smart  random  code  injection  to  mask  power  analysis  based  side  channel  attacks. 
+4fbeb4c3  Locality  optimization  in  wireless  applications. 
+4ef9d38d  Beyond  gaming:  programming  the  PLAYSTATION®3  cell  architecture  for  cost-effective  parallel  processing. 
+b4c74f84  Combined  approach  to  system  level  performance  analysis  of  embedded  systems. 
+fcd78a51  Ensuring  secure  program  execution  in  multiprocessor  embedded  systems:  a  case  study. 
+7cdf55ab  Reliable  multiprocessor  system-on-chip  synthesis. 
+da2a6e65  Incremental  run-time  application  mapping  for  homogeneous  NoCs  with  multiple  voltage  levels. 
+b9dc29af  Thread  warping:  a  framework  for  dynamic  synthesis  of  thread  accelerators. 
+4c5488ca  Predator:  a  predictable  SDRAM  memory  controller. 
+504dc457  Performance  and  resource  optimization  of  NoC  router  architecture  for  master  and  slave  IP  cores. 
+ff2584a8  Compile-time  decided  instruction  cache  locking  using  worst-case  execution  paths. 
+19b7c9c3  Simultaneous  synthesis  of  buses   data  mapping  and  memory  allocation  for  MPSoC. 
+f9da6ef6  Power  deregulation:  eliminating  off-chip  voltage  regulation  circuitry  from  embedded  systems. 
+8b740207  Predictable  execution  adaptivity  through  embedding  dynamic  reconfigurability  into  static  MPSoC  schedules. 
+f8e864d6  A  data  protection  unit  for  NoC-based  architectures. 
+e37a64c1  Compiling  code  accelerators  for  FPGAs. 
+f8d3b4ad  Scheduling  and  voltage  scaling  for  energy/reliability  trade-offs  in  fault-tolerant  time-triggered  embedded  systems. 
+59879733  Performance  analysis  and  design  space  exploration  for  high-end  biomedical  applications:  challenges  and  solutions. 
+55784a2e  On  the  impact  of  manufacturing  process  variations  on  the  lifetime  of  sensor  networks. 
+da2556b6  A  low  power  VLIW  processor  generation  method  by  means  of  extracting  non-redundant  activation  conditions. 
+b66c40b9  Influence  of  procedure  cloning  on  WCET  prediction. 
+91d4d3a9  HySim:  a  fast  simulation  framework  for  embedded  software  development. 
+921e8d1e  Pointer  re-coding  for  creating  definitive  MPSoC  models. 
+80a73186  HW/SW  co-design  for  Esterel  processing. 
+200f6b28  Performance  improvement  of  block  based  NAND  flash  translation  layer. 
+c0e57856  Energy  efficient  co-scheduling  in  dynamically  reconfigurable  systems. 
+daa759d4  A  computational  reflection  mechanism  to  support  platform  debugging  in  SystemC. 
+5cee83a3  Event-based  re-training  of  statistical  contention  models  for  heterogeneous  multiprocessors. 
+8bfb2512  Automotive  networks:  are  new  busses  and  gateways  the  answer  or  just  another  challenge? 
+0e5a65ff  Channel  trees:  reducing  latency  by  sharing  time  slots  in  time-multiplexed  networks  on  chip. 
+4229d654  Improved  response  time  analysis  of  tasks  scheduled  under  preemptive  Round-Robin. 
+23057513  Dynamic  security  domain  scaling  on  symmetric  multiprocessors  for  future  high-end  embedded  systems. 
+7ce43011  Synchronization  after  design  refinements  with  sensitive  delay  elements. 
+bc31b7f8  Temperature-aware  processor  frequency  assignment  for  MPSoCs  using  convex  optimization. 
+fdce5ff0  Bridging  gap  between  simulation  and  spreadsheet  study. 
+9bd18220  A  framework  for  rapid  system-level  exploration   synthesis   and  programming  of  multimedia  MP-SoCs. 
+3766040a  Probabilistic  performance  risk  analysis  at  system-level. 
+981757c7  Smart  driver  for  power  reduction  in  next  generation  bistable  electrophoretic  display  technology. 
+b4813637  Embedded  software  development  on  top  of  transaction-level  models. 
+e486bf57  Fresh  air:  the  emerging  landscape  of  design  for  networked  embedded  systems. 
+7c97c6b3  Three-dimensional  multiprocessor  system-on-chip  thermal  optimization. 
+1d318c8c  A  code-generator  generator  for  multi-output  instructions. 
+d036bb6c  Complex  task  activation  schemes  in  system  level  performance  analysis. 
+39e20e38  Performance  modeling  for  early  analysis  of  multi-core  systems. 
+e67e6704  ESL  design  and  HW/SW  co-verification  of  high-end  software  defined  radio  platforms. 
+d2d5f080  Specification  and  OS-based  implementation  of  self-adaptive   hardware/software  embedded  systems. 
+3ead66ee  Hardware/software  partitioning  of  floating  point  software  applications  to  fixed-pointed  coprocessor  circuits. 
+b9fbb5f7  Software  optimization  for  MPSoC:  a  mpeg-2  decoder  case  study. 
+6cea4d1d  ODOR:  a  microresonator-based  high-performance  low-cost  router  for  optical  networks-on-Chip. 
+a71e5e85  SPaC:  a  symbolic  pareto  calculator. 
+fcfc3cf1  Synthesis  of  heterogeneous  pipelined  multiprocessor  systems  using  ILP:  jpeg  case  study. 
+51ceefac  A  performance-oriented  hardware/software  partitioning  for  datapath  applications. 
+a5e06053  You  can  catch  more  bugs  with  transaction  level  honey. 
+4dc575fc  Yield  maximization  for  system-level  task  assignment  and  configuration  selection  of  configurable  multiprocessors. 
+b23c4906  Online  adaptive  utilization  control  for  real-time  embedded  multiprocessor  systems. 
+0cbb4ba6  Application  specific  non-volatile  primary  memory  for  embedded  systems. 
+849bb57d  Slack  analysis  in  the  system  design  loop. 
+6ca5d5ef  Traversal  caches:  a  first  step  towards  FPGA  acceleration  of  pointer-based  data  structures. 
+abb3d5e9  Dynamic  tuning  of  configurable  architectures:  the  AWW  online  algorithm. 
+d9bd35f9  Cache-aware  optimization  of  BAN  applications. 
+f6e48873  Model  checking  SystemC  designs  using  timed  automata. 
+66bb6ce2  Providing  accurate  event  models  for  the  analysis  of  heterogeneous  multiprocessor  systems. 
+db5851dd  Holistic  design  and  caching  in  mobile  computing. 
+8f9655a5  LOCS:  a  low  overhead  profiler-driven  design  flow  for  security  of  MPSoCs. 
+e6566f39  Scratchpad  allocation  for  concurrent  embedded  software. 
+1571b350  Methodology  for  multi-granularity  embedded  processor  power  model  generation  for  an  ESL  design  flow. 
+2bab0040  Highly-cited  ideas  in  system  codesign  and  synthesis. 
+6fe0857d  Co-design  in  the  wilderness. 
+79722a99  Speculative  DMA  for  architecturally  visible  storage  in  instruction  set  extensions. 
+e89b308b  Distributed  flit-buffer  flow  control  for  networks-on-chip. 
+3aca8519  Concurrency  emulation  and  analysis  of  parallel  applications  for  multi-processor  system-on-chip  co-design. 
+2187fc71  Specification-based  compaction  of  directed  tests  for  functional  validation  of  pipelined  processors. 
+8dbf5f1d  Guaranteed  scheduling  for  repetitive  hard  real-time  tasks  under  the  maximal  temperature  constraint. 
+3055015c  System-level  mitigation  of  WID  leakage  power  variability  using  body-bias  islands. 
+b0345694  A  security  monitoring  service  for  NoCs. 
+1def3717  Deterministic  service  guarantees  for  nand  flash  using  partial  block  cleaning. 
+a99cf443  Symbolic  voter  placement  for  dependability-aware  system  synthesis. 
+2ffa96cd  Performance  debugging  of  Esterel  specifications. 
+d58e245b  Static  analysis  of  processor  stall  cycle  aggregation. 
+587acee7  Extending  open  core  protocol  to  support  system-level  cache  coherence. 
+62899c34  Combination  of  instruction  set  simulation  and  abstract  RTOS  model  execution  for  fast  and  accurate  target  software  evaluation. 
+a384dc83  Don't  forget  memories:  a  case  study  redesigning  a  pattern  counting  ASIC  circuit  for  FPGAs. 
+704478fb  Static  analysis  for  fast  and  accurate  design  space  exploration  of  caches. 
+1bde3017  Power  reduction  via  macroblock  prioritization  for  power  aware  H.264  video  applications. 
+cde89d5d  Profiling  of  lossless-compression  algorithms  for  a  novel  biomedical-implant  architecture. 
+41027650  Reliable  performance  analysis  of  a  multicore  multithreaded  system-on-chip. 
+226c360e  Asynchronous  transient  resilient  links  for  NoC. 
+ab8327ba  Simulation  and  embedded  software  development  for  Anton   a  parallel  machine  with  heterogeneous  multicore  ASICs. 
+33223014  Design  and  defect  tolerance  beyond  CMOS. 
+b6a94427  Optimality  of  Right  Leaning  Trees. 
+1010a8e8  Search  for  Sequences  with  Zero  Autocorrelation. 
+28ff6be6  Weighted  Decoding  as  a  Means  for  Reestimating  a  Probability  Distribution  (Abstract). 
+c7ac3d47  Weighted  decoding  of  linear  block  codes  by  solving  a  system  of  implicit  equations. 
+b2f408f4  Is  minimal  distance  a  good  criterion? 
+46e87dba  A  Weighted-Output  Symbol-by-Symbol  Decoding  Algorithm  of  Binary  Convolutional  Codes. 
+4ffb1172  Information  Theory  in  Random  Fields. 
+e8fecaec  Optimum  '1'-Ended  Binary  Prefix  Codes. 
+72024be3  Specification   Synchronisation   Average  Length. 
+1fbc441b  On  the  Density  of  Best  Coverings  in  Hamming  Spaces. 
+0f9c6f68  A  [32   17   14]  -  Geometric  Code  coming  from  a  Singular  Curve. 
+54a60295  Polynomial  factorization  using  Brill-Noether  algorithm. 
+acfbe9b3  Evaluation  of  a  coding  design  for  a  very  noisy  channel. 
+553511ce  A  simple  description  of  Kerdock  codes. 
+5111dbef  Codes  from  Artin-Schreier  curves. 
+31376be5  The  Generalized  Goppa  Codes  and  Related  Discrete  Designs  from  Hermitian  Surfaces  in  PG  (3   s). 
+4f9509e3  Generating  codewords  in  real  space:  Application  to  decoding. 
+628a91e6  Concatenated  coding  schemes  for  HF  channels. 
+fd234dc7  The  future  pan  european  mobile  radiotelephone  system:  a  short  overview. 
+b34fb39d  Amerlioration  of  the  Mc  Williams-Sloanes  Tables  using  Geometric  Codes  from  Curves  with  Genus  1   2  or  3. 
+e8411ed9  On  the  Inherent  Intractability  of  Soft  Decision  Decoding  of  Linear  Codes. 
+5526537b  Linear  recurrence  relations  and  an  extended  subresultant  algorithm. 
+6136aa50  Coding  and  Decoding  Algorithms  of  Reed  -  Solomon  Codes  Executed  on  a  M  68000  Microprocessor. 
+ae01a361  Covering  in  Hypercubes. 
+6390f562  Adapted  Codes  for  Communication  Through  Multipath  Channel. 
+06b40556  A  new  authentication  algorithm. 
